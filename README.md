@@ -1,4 +1,4 @@
-# Hi, I'm Shams Mohamed 👋
+#  I'm Shams Mohamed 👋
 
 ### AI & Machine Learning Enthusiast | Computer Science Student
 
